@@ -1,3 +1,8 @@
+-----------------------------------------------------------
+------------ Made By 𝓞𝓛𝓘𝓧 𝓨𝓣 (っ◔◡◔)っ#4222 ------------
+-----------------------------------------------------------
+
+
 RegisterCommand("gps", function(source, args )
     local argString = table.concat(args, " ")
     if argString == "" or argString == " " then 
